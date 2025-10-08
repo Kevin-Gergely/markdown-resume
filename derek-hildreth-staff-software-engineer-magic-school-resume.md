@@ -5,8 +5,6 @@
 
 10+ years building scalable web applications and APIs serving millions of users. Deep expertise in backend systems (PHP/Laravel, Node.js, PostgreSQL) with production experience in TypeScript and React. Proven track record leading complex projects end-to-end, establishing architectural patterns, and mentoring engineers to raise technical excellence. Passionate about building products that make a real difference in people's lives.
 
----
-
 ## Selected Leadership Achievements
 
 - **Technical Leadership:** Consolidated three backend systems into unified Laravel stack, establishing TDD practices and architectural standards that improved reliability across engineering teams

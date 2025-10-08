@@ -1,63 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
 .page-break {
   page-break-after: always;
 }
 
 .markdown-body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 10px;
-  line-height: 1.25;
+  line-height: 1.35;
   margin: 0;
   padding: 0;
+  color: #1e293b;
 }
 
+/* Horizontal rules */
+.markdown-body hr {
+  margin: 8px 0;
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+}
+
+/* NAME - Bold but not too flashy for engineering */
 .markdown-body h1 {
-  font-size: 24px;
-  margin: 0 0 8px 0;
-  padding: 0 0 6px 0;
-  line-height: 1.2;
-  font-weight: 700;
-  border-bottom: 1px solid #ddd;
+  font-size: 26px;
+  margin: 0 0 4px 0;
+  padding: 0 0 8px 0;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  color: #0f172a;
+  border-bottom: 2px solid #2563eb;
 }
 
-.markdown-body h2 {
-  font-size: 14px;
-  margin: 14px 0 6px 0;
-  padding: 0;
-  line-height: 1.2;
-  font-weight: 700;
-  border-bottom: none;
-}
-
-.markdown-body h3 {
-  font-size: 11px;
-  margin: 10px 0 4px 0;
-  padding: 0;
-  line-height: 1.2;
-  font-weight: 700;
-}
-
-.markdown-body p {
+/* Contact info - right after name */
+.markdown-body h1 + p {
+  font-size: 9px;
+  color: #64748b;
   margin: 0 0 6px 0;
+  font-weight: 500;
 }
 
-.markdown-body ul {
-  margin: 4px 0 6px 0;
-  padding-left: 18px;
+.markdown-body h1 + p strong {
+  font-weight: 600;
+  color: #475569;
 }
 
-.markdown-body li {
-  margin: 1px 0;
+/* Job title/tagline - H2 right after contact */
+.markdown-body h1 + p + h2 {
+  font-size: 11px;
+  font-weight: 700;
+  color: #ffffff;
+  background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
+  padding: 6px 10px;
+  margin: 0 0 6px 0;
+  border-left: 4px solid #1d4ed8;
+  letter-spacing: 0.3px;
+  text-transform: none;
 }
 
-.markdown-body em {
-  font-style: italic;
-  font-weight: 400;
+/* Summary paragraph after title */
+.markdown-body h2 + p {
+  font-size: 10px;
+  color: #475569;
+  margin: 0 0 8px 0;
+  line-height: 1.45;
 }
 
-.markdown-body strong {
+/* SECTION HEADERS (Selected Achievements, Work Experience, etc) */
+.markdown-body h2 {
+  font-size: 12px;
+  margin: 12px 0 6px 0;
+  padding: 5px 10px;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
+  border-left: 4px solid #2563eb;
+  border-radius: 2px;
+}
+
+/* COMPANY NAMES / JOB TITLES */
+.markdown-body h3 {
+  font-size: 10.5px;
+  margin: 8px 0 2px 0;
+  padding: 3px 0 3px 8px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #0f172a;
+  border-left: 3px solid #3b82f6;
+  background-color: #f8fafc;
+}
+
+/* Job title right after company name */
+.markdown-body h3 + p strong {
+  color: #1e40af;
   font-weight: 600;
 }
 
+/* Paragraphs */
+.markdown-body p {
+  margin: 0 0 5px 0;
+  color: #334155;
+}
+
+/* Bullet lists */
+.markdown-body ul {
+  margin: 3px 0 6px 0;
+  padding-left: 20px;
+}
+
+.markdown-body li {
+  margin: 1.5px 0;
+  color: #475569;
+  line-height: 1.4;
+}
+
+.markdown-body li::marker {
+  color: #3b82f6;
+  font-weight: bold;
+}
+
+/* Emphasis and strong */
+.markdown-body em {
+  font-style: italic;
+  font-weight: 400;
+  color: #64748b;
+}
+
+.markdown-body strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Strong text in bullets - technical keywords */
+.markdown-body li strong {
+  color: #1e40af;
+  font-weight: 600;
+}
+
+/* Links - make GitHub/LinkedIn stand out */
+.markdown-body a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
+}
+
+/* Code blocks */
 .markdown-body pre > code {
   white-space: pre-wrap;
+  font-family: 'JetBrains Mono', 'SF Mono', 'Consolas', monospace;
+  font-size: 9px;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+/* Inline code - for technical terms */
+.markdown-body code {
+  font-family: 'JetBrains Mono', 'SF Mono', 'Consolas', monospace;
+  background-color: #f1f5f9;
+  color: #1e40af;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 9px;
+  font-weight: 500;
+  border: 1px solid #e2e8f0;
+}
+
+/* Skills section - make technical skills pop */
+.markdown-body h2:contains("Skills") + p,
+.markdown-body h2:contains("SKILLS") + p {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9px;
 }

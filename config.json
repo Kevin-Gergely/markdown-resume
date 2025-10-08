@@ -3,7 +3,7 @@
   "body_class": "markdown-body",
   "pdf_options": {
     "format": "letter",
-    "margin": "15mm 20mm",
+    "margin": "12mm 18mm",
     "printBackground": true
   }
 }
