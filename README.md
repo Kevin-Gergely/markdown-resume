@@ -2,6 +2,8 @@
 
 A professional resume and cover letter generation system using Markdown and modern CSS styling. Create beautiful, ATS-friendly PDFs optimized for software engineering positions.
 
+![Example Resume](derek-hildreth-staff-software-engineer-magic-school-resume.jpg)
+
 ## AI-Assisted Resume Building
 
 This project includes configuration files for AI assistants to help generate consistent, high-quality resumes and cover letters. Two key files power this:
