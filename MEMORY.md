@@ -2,112 +2,224 @@
 
 This file stores context and memory for AI assistants working on this project.
 
-## About Derek Hildreth
+## About Kevin Gergely
 
-Derek is a Senior Software Engineer based in Belgrade, Montana, actively job searching for Staff+ level positions at mission-driven companies. He was recently demoted from Principal due to organizational restructuring, not performance. He has 10+ years of backend engineering experience with deep expertise in PHP/Laravel and production experience in TypeScript, Node.js, and Python.
+Kevin is a Senior Director of Technology based in Uniontown, Pennsylvania, actively exploring remote opportunities for IT leadership positions (VP of IT, IT Director, IT Manager). He has 10+ years of IT leadership experience with deep expertise in enterprise infrastructure, HIPAA compliance, and multi-site operations across healthcare and insurance industries.
 
-### Core Values
-Derek values meaningful work, service, connection, excitement, and integrity above all else.
+## Core Values
 
-### Founder Work
-Derek is the Founder of LookOver LLC, building a React Native powersports maintenance app that integrates OpenAI APIs and RevenueCat for subscriptions. This app serves as both a business venture and a technical showcase of his full-stack capabilities.
+Kevin values meaningful work, competence, leadership, achievement, and independence above all else.
 
-### Work History
-- Works remotely since 2021
-- Experience across diverse industries:
-  - Government contracting (General Indemnity Group)
-  - AdTech (Pathlabs, managing $200M+ ad spend)
-  - Embedded systems (Technologic Systems)
-  - Enterprise software (Oracle)
+## Work History
 
-### Personal Context
-Derek is a father with children including one with special needs, which influences his work-life balance priorities and values around authentic, supportive workplace cultures.
+Currently serving as Senior Director of Technology at General Indemnity Group (Nov 2021 - Present), leading enterprise-wide IT operations across multi-site environments.
 
-### Job Search Focus
-Companies with strong missions align with his values:
-- Civic tech
-- Education technology
-- Sustainability
-- Healthcare
-- Outdoor recreation
+Previously served as Director of Technology at Centerville Clinics, Inc. (Jan 2015 - Nov 2021), managing IT operations across 15 healthcare facilities.
 
-Personal connections to these domains include family circumstances (Medicaid services), teacher friends sharing classroom challenges, and his outdoor lifestyle in Montana's mountains.
+Experience across diverse industries:
+- Insurance (General Indemnity Group)
+- Healthcare (Centerville Clinics)
+- Multi-site operations and regulatory compliance
+
+## Personal Context
+
+Kevin is a father with three dogs, prioritizing work-life balance and family time. He served as a volunteer firefighter for approximately 6 years, demonstrating commitment to community service. In his free time, he enjoys motorcycle rides as "Wind Therapy" for stress relief and mental clarity.
+
+## Job Search Focus
+
+Currently exploring remote-only opportunities at startup or mid-size companies. Open to various industries but has proven experience in:
+- Healthcare (HIPAA compliance, EHR systems, patient data security)
+- Insurance (regulatory compliance, risk management, audit readiness)
+
+Remote work is non-negotiable. Not open to relocation or hybrid arrangements.
 
 ## Current State
 
-Derek recently accepted a Staff Software Engineer position at Skylight Digital, a civic tech consultancy working on HHS contracts, after extensive research and salary negotiation. The role represents a strategic move to gain production TypeScript experience while contributing to meaningful government digital modernization work. He successfully negotiated the offer from $195,000 to his target range.
+Kevin is actively job searching while maintaining his role at General Indemnity Group. He has successfully led major initiatives including:
+- Achieving 99.9% system availability through proactive RMM monitoring
+- Reducing IT costs by 15% through vendor negotiations and strategic resource allocation
+- Implementing enterprise-wide business continuity and disaster recovery protocols
+- Modernizing digital presence and infrastructure
 
-At his current role with General Indemnity Group, Derek has been leading backend system consolidation, migrating from dedicated VMs to AWS infrastructure, and introducing engineering best practices like TDD and CI/CD.
+## Technical Experience
 
-### AWS Experience
-EC2, ECS, RDS, S3, CloudFront, Route53, CloudFormation, CloudWatch, IAM, Lambda, SQS, EventBridge, Secrets Manager, and ElastiCache. Note: lacks blue-green deployment experience.
+### Cloud Platforms
+- **AWS**: EC2, S3, Secrets Manager, Route 53, Certificate Manager
+- **Azure**: Multi-platform cloud experience
+- **Google Cloud**: Multi-platform cloud experience
+
+### Infrastructure & Systems
+- Windows Server, Active Directory
+- Virtualization platforms
+- RMM/MDM: LogMeIn, ConnectWise, Atera RMM
+- ERP Systems: Salesforce, JustWorks, Google Workspace
+- EHR systems (healthcare-specific)
+- Office 365 administration
+- Cloud-based phone systems
+
+### Compliance & Security
+- HIPAA Security Officer experience
+- Annual risk assessments and audits
+- Regulatory compliance across healthcare and insurance
+- Business continuity and disaster recovery planning
+
+### Development Skills (Growing)
+Kevin is actively developing technical skills in:
+- HTML
+- CSS
+- JavaScript
+- Python
+
+### Certifications
+- AI-related certifications
+- Full Stack Development certifications
 
 ## Key Learnings and Principles
 
-### Truth Over Hype
-Derek prioritizes truth over hype in all professional communications. He received feedback that interview responses stayed too high-level without clearly demonstrating specific individual technical contributions. This led to a core principle: only claim verified experiences and ask for clarification rather than fabricate expertise when job requirements are unclear.
+### Measurable Impact
+Kevin prioritizes demonstrating measurable outcomes in all professional communications. Examples include:
+- "99.9% system availability"
+- "15% cost reduction"
+- "30% faster resolution time"
+- "12% operational cost savings"
 
-### Authentic Storytelling
-Authentic storytelling resonates more than overwhelming employers with credentials. Most effective cover letters lead with confident qualification statements followed by punchy, memorable 2-4 sentence stories that demonstrate genuine research and personal connection to the company's mission.
+### Authentic Representation
+Kevin values honest representation of skills and experience. He distinguishes between:
+- Areas of deep expertise (infrastructure, HIPAA, team leadership)
+- Areas of competence (cloud migrations, RMM/MDM)
+- Areas of growth (development languages, advanced cloud strategies)
 
-### Professional Demeanor
-Values "grounded humility with positive energy," being useful over impressive, empowering others rather than hoarding authority, and creating psychological safety. His natural tendency to "go along to get along" and avoid conflict needs active management in professional settings.
+### Leadership Philosophy
+Values building high-performing teams, aligning technology with business goals, and creating environments where IT staff can grow. Focuses on:
+- Team development and mentorship
+- Process improvement and efficiency
+- Strategic planning and governance
+- Vendor relationship management
 
-### Strategic Career Planning
-PHP/Laravel expertise, while deep, can be a barrier to opportunities at companies using different tech stacks. The strategic move to Skylight Digital specifically addresses this by providing production TypeScript experience to open doors at preferred outdoor tech companies.
+### Multi-Site Operations Excellence
+Proven ability to manage IT across distributed facilities (15+ healthcare sites, multi-site enterprise environments), ensuring consistent service delivery, compliance, and security.
 
 ## Approach and Patterns
 
 ### Job Application Workflow
-1. Identify opportunities
+1. Identify remote opportunities at startup/mid-size companies
 2. Provide job descriptions for tailored resumes
-3. Review output for authenticity
+3. Review output for authenticity and accuracy
 4. Save markdown files
-5. Convert to PDF using md2pdf.sh script
+5. Convert to PDF
 6. Upload applications
 
 ### Formatting Requirements
 - All resumes must be exactly 2 pages maximum
 - Cover letters should fit on one page
+- Clean, professional formatting (Calibri, Arial, or similar)
 
 ### Communication Style
-- Direct and technical
+- Direct and professional
 - Avoids corporate buzzwords and em dashes (AI writing tells)
-- Prefers conversational, authentic tone while maintaining professionalism
-- Requests that materials sound human rather than artificially polished
+- Prefers authentic tone while maintaining professionalism
+- Leads with action verbs and measurable results
+- Quantifies achievements whenever possible
 
 ### Interview Preparation
-- Extensive company research focusing on culture fit, values alignment, and technical stack compatibility
-- Prepares specific STAR method stories emphasizing personal technical contributions with concrete metrics and technologies used
+- Research company culture, values alignment, and technical requirements
+- Prepare specific examples emphasizing leadership impact and measurable outcomes
+- Focus on compliance achievements (especially for healthcare/financial services roles)
+- Highlight cost reduction and operational efficiency wins
 
-### Self-Representation
-Derek demonstrates strong attention to authentic self-representation, frequently correcting overstated language and removing claims he cannot verify. He prefers being positioned accurately for his experience level rather than overselling capabilities, understanding this leads to better role fit and realistic employer expectations.
+## Self-Representation
 
-## Tools and Resources
+Kevin demonstrates strong attention to authentic self-representation, ensuring claims are backed by actual experience. He prefers being positioned accurately for his experience level rather than overselling capabilities, understanding this leads to better role fit and realistic employer expectations.
 
-### Resume Conversion
-Custom md2pdf.sh script for converting markdown resumes to PDF format, maintaining consistent professional formatting across all applications.
+## Career Goals
 
-### Master Resume
-Comprehensive master resume serves as source of truth for all experiences, ensuring accuracy and preventing embellishment.
+### 2-5 Year Vision
+Kevin's goal is to advance into a VP of IT position, continuing his journey in IT leadership. He is building technical development skills to complement his strong infrastructure and leadership background.
 
-### Technical Toolkit
-- Deep Laravel/PHP expertise
-- AWS cloud services (12+ services hands-on)
-- PostgreSQL production experience including database migrations
-- Growing proficiency in TypeScript/Node.js and React
-- AI coding assistants: GitHub Copilot, Anthropic Claude, AWS Q, Google Gemini
+### Skill Development Focus
+Currently expanding capabilities in:
+- Programming languages (HTML, CSS, JavaScript, Python)
+- Advanced cloud strategies and architectures
+- Digital transformation and modernization
+- Emerging technologies and AI applications in IT operations
 
-### Job Search Channels
-- Built In job boards
+## Key Strengths to Emphasize
+
+### Multi-Site Operations
+- 15+ healthcare facilities managed
+- Multi-site enterprise environments
+- Consistent service delivery across distributed teams
+
+### Compliance Expertise
+- HIPAA Security Officer
+- Annual audits and risk assessments
+- Full regulatory compliance track record
+
+### Cost Management
+- Proven 12-15% cost reduction achievements
+- Strategic vendor negotiations
+- Budget management and resource optimization
+
+### High Availability
+- 99.9% uptime consistency
+- Proactive monitoring and incident prevention
+- Business continuity and disaster recovery
+
+### Complete IT Ownership
+- Help desk to infrastructure to strategic planning
+- End-to-end IT operations responsibility
+- Cross-functional collaboration with business units
+
+### Team Development
+- Hiring, training, and growing IT staff
+- Mentorship and leadership development
+- Building high-performing technical teams
+
+## Notable Projects
+
+### Help Desk Implementation
+Built company-wide help desk portal, cutting resolution time by 30%. Demonstrates process improvement and measurable results.
+
+### Cloud Phone Migration
+Led seamless migration to cloud-based phone system, reducing telecom costs and improving reliability. Shows project management and cost optimization.
+
+### Office 365 Migration
+Directed enterprise-wide migration from Google Workspace to Office 365, improving collaboration efficiency. Demonstrates change management at scale.
+
+### RMM/MDM Rollout
+Implemented remote monitoring and device management platform, enhancing patching compliance and reducing downtime. Shows security and compliance focus.
+
+### Asset Management System
+Designed and deployed asset management solution, improving inventory tracking and accountability. Demonstrates operational efficiency focus.
+
+### Hardware Refresh Lifecycle
+Established proactive hardware refresh plan, reducing support tickets and extending device reliability. Shows strategic planning and cost management.
+
+## Job Search Channels
+
 - LinkedIn
+- Built In job boards
+- Remote job boards (We Work Remotely, Remote.co, FlexJobs)
 - Direct company applications
-- Recruiter relationships
-- Personal connections within target companies
+- Industry-specific boards (healthcare IT, insurance tech)
 
-### LookOver App
-Technical showcase demonstrating:
-- OpenAI API integration
-- RevenueCat subscriptions
-- React Native development
-- Mobile app deployment across iOS and Android
+## Work Preferences
+
+### Must-Haves
+- Remote work (non-negotiable)
+- IT leadership role (IT Manager, IT Director, VP of IT)
+- Startup or mid-size company
+- Opportunity to make measurable impact
+
+### Nice-to-Haves
+- Mission-driven organization
+- Healthcare or insurance industry (proven experience)
+- Growth opportunity toward VP of IT
+- Collaborative, supportive culture
+- Technical innovation and modernization focus
+
+### Deal-Breakers
+- On-site or hybrid requirements
+- Large enterprise bureaucracy
+- Lack of leadership autonomy
+- Stagnant technology environments
