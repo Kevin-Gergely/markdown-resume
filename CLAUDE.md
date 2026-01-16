@@ -1,4 +1,4 @@
-# Resume Building Instructions for Derek Hildreth
+# Resume Building Instructions for Kevin Gergely
 
 ## 1. Start With a Clear Goal
 - Every resume must serve a **specific purpose** (e.g., Staff+ engineer role, founder positioning, industry pivot).
